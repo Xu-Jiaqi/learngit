@@ -1,3 +1,3 @@
 aha moment!
 I love git!
-Still Ok so far.
+Easy to solve confict.
