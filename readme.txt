@@ -1,3 +1,3 @@
 aha moment!
 I love git!
-This line is added for try merge.
+Well, I guess sth bad well happen this time.
