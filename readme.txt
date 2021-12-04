@@ -1,1 +1,2 @@
-a
+aha moment!
+I love git!
